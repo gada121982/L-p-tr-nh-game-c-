@@ -1,0 +1,24 @@
+C:\Users\VinhHai\source\repos\Lab05\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\VinhHai\source\repos\Lab05\Lab05\bin\Debug\Lab05.exe
+C:\Users\VinhHai\source\repos\Lab05\Lab05\bin\Debug\Lab05.pdb
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.MatchGame.resources
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.exe
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.pdb
+C:\Users\VinhHai\source\repos\Lab05\Lab05\obj\Debug\Lab05.MathQuiz.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.MathQuiz.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.SpineGame.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.MatchGame.resources
+D:\HỌC\môn học hk 4\lập trình mạng\deadline\Lab05\Lab05\obj\Debug\Lab05.Menucs.resources
